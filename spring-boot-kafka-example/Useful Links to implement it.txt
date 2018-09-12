@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=NjHYWEV_E_o
 https://dzone.com/articles/running-apache-kafka-on-windows-os
 
 https://stackoverflow.com/questions/35788697/leader-not-available-kafka-in-console-producer
+
+https://start.spring.io/
