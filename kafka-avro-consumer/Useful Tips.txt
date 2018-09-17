@@ -1,0 +1,10 @@
+mvn clean
+
+mvn package
+
+mvn generate-sources
+
+
+https://www.codenotfound.com/spring-kafka-apache-avro-serializer-deserializer-example.html
+
+If error with dependencies remove folder userprofile\.m2\repository\org
